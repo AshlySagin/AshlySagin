@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AshlySagin
-- 👀 I’m interested in Web Design and Database Admin
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Software Enginnering and Database Systems 
+- 🌱 I’m currently learning ... software skills and buliding confidence with Lanuages C#, Java, HTML, CSS, and Javascript. 
+- 💞️ I’m looking to collaborate ... on software developement, and excel in my IT support and communication skills
+- 📫 How to reach me ...ashlysagin20@gmail.com
 
 <!---
 AshlySagin/AshlySagin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
