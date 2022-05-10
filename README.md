@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate ... on software developement, and excel in my IT support and communication skills
 - 📫 How to reach me ...ashlysagin20@gmail.com
 - ✨ Projects I have experience with..
+  - Full Stack Development for Wintec Password Reset Portal - Developed on Visual Studio 
+      Front-End: HTML, CSS, JavaScript 
+      Back-End: C# Language, .Net Framework, CI/CD Azure Pipelines) 
+  - Classfication using Weka 
+  - Creating Datastory and Dashboards on IBM Cognos 
+  - Winning Group Project: Anglesea Hospital Clock-In Application (Developed in Android Studio coding in Java)
+  - Game Development (Godot 2d and 3d)
   - HTML, CSS, JavaScript Website Design 
   - Java (GUI and Console coding)
   - C# (GUI and Console coding)
