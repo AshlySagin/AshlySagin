@@ -15,7 +15,7 @@
   - Java (GUI and Console coding)
   - C# (GUI and Console coding)
   - Python (GUI and Console coding)
-  - Technical Support (Level 1 Helpdesk, Zendesk Exposure)
+  - Technical Support (Level 1 and 2 IT Support, Zendesk Ticketing)
   - Business Communication (Group Web Design Project, Database Design (SQL Coding))
 
 
