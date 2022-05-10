@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Software Enginnering and Database Systems 
 - 🌱 I’m currently learning ... software skills and buliding confidence with Lanuages C#, Java, HTML, CSS, and Javascript. 
 - 💞️ I’m looking to collaborate ... on software developement, and excel in my IT support and communication skills
-- 📫 How to reach me ...ashlysagin20@gmail.com
+- 📫 How to reach me ...ashlysagin@hotmail.com
 - ✨ Projects I have experience with..
   - Full Stack Development for Wintec Password Reset Portal - Developed on Visual Studio 
       Front-End: HTML, CSS, JavaScript 
